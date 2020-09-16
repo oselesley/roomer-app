@@ -1,0 +1,82 @@
+/*.header-left {*/
+/*    clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 25% 100%, 0% 50%);*/
+/*}*/
+.ui {
+    font-family: 'Quicksand' !important;
+}
+
+.ui.modal {
+    color: #555555;
+}
+
+.ui.modal h1 {
+    font-family: 'Quicksand' !important;
+}
+
+header {
+    background-color: #E8E8F6;
+    clip-path: polygon(100% 0, 100% 89%, 84% 87%, 69% 87%, 55% 91%, 37% 94%, 17% 92%, 0 85%, 0 0);
+}
+
+html body div#nav div#container-nav a#logo img {
+    width: 130px;
+}
+html body div#nav div#container-nav a#logo {
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+
+html body div#nav div#container-nav a {
+    font-size: 1.2rem;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    color: #555;
+}
+
+html body div#landing-container div#inner-landing-container
+div#header-grid div#header div#header-text h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 5rem;
+    color: #555;
+}
+
+html body div#landing-container div#inner-landing-container
+div#header-grid div#header div#header-text h4 {
+    font-family: 'Quicksand',
+    sans-serif; font-size: 1.2rem;
+    color: #555;
+}
+.header-text {
+    margin-top: 10rem;
+    margin-left: 2rem;
+}
+
+
+.header-img {
+    transform: translateY(-3rem);
+}
+
+img {
+    max-width: 100%;
+}
+
+/*MAIN*/
+
+main h1#main-header {
+    font-family: 'Quicksand',
+    sans-serif; font-size: 1.7rem;
+    color: #555;
+}
+
+main#main-section {
+    margin-bottom: 5rem;
+}
+
+/* PLACES  SECTION */
+section#places-section h1#places-section-header {
+    font-family: 'Quicksand',
+    sans-serif; font-size: 1.7rem;
+    color: #555;
+}
+/*clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 0 100%, 0% 60%, 0 19%);*/
